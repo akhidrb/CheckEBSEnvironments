@@ -3,7 +3,7 @@ Encoding=UTF-8
 Version=1.0
 Type=Application
 Terminal=true
-Exec=/home/khidr/Documents/Work/Kites/CheckSystemRunning/CheckTesting/checkRunning.sh
+Exec=/home/khidr/Kites/CheckEBSEnvironments/CheckTesting/checkRunning.sh
 Name=Check Testing Env
-Icon=/home/khidr/Documents/Work/Kites/CheckSystemRunning/CheckTesting/sample.png
+Icon=/home/khidr/Kites/CheckEBSEnvironments/CheckTesting/sample.png
 

@@ -3,7 +3,7 @@ Encoding=UTF-8
 Version=1.0
 Type=Application
 Terminal=true
-Exec=/home/khidr/Documents/Work/Kites/CheckSystemRunning/CheckStaging/checkRunning.sh
+Exec=/home/khidr/Kites/CheckEBSEnvironments/CheckStaging/checkRunning.sh
 Name=Check Staging Env
-Icon=/home/khidr/Documents/Work/Kites/CheckSystemRunning/CheckStaging/sample.png
+Icon=/home/khidr/Kites/CheckEBSEnvironments/CheckStaging/sample.png
 

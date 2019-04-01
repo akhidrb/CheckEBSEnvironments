@@ -10,7 +10,7 @@ fi
 
 while true
 do
-	curl -s http://ebs.staging.kites-software.io:8050/login > backend.txt
+	curl -s https://ebs.staging.kites-software.io:8050/login -k > backend.txt
 
 	input="backend.txt"
 	while IFS= read -r var
